@@ -1,0 +1,128 @@
+C:\Users\ASUS\OneDrive\Documents\POSTTEST PEMVIS\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.exe.config
+C:\Users\ASUS\OneDrive\Documents\POSTTEST PEMVIS\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.exe
+C:\Users\ASUS\OneDrive\Documents\POSTTEST PEMVIS\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.pdb
+C:\Users\ASUS\OneDrive\Documents\POSTTEST PEMVIS\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.xml
+C:\Users\ASUS\OneDrive\Documents\POSTTEST PEMVIS\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\mysql.data.dll
+C:\Users\ASUS\OneDrive\Documents\POSTTEST PEMVIS\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.vbprojResolveAssemblyReference.cache
+C:\Users\ASUS\OneDrive\Documents\POSTTEST PEMVIS\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\ASUS\OneDrive\Documents\POSTTEST PEMVIS\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ASUS\OneDrive\Documents\POSTTEST PEMVIS\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.vbproj.GenerateResource.Cache
+C:\Users\ASUS\OneDrive\Documents\POSTTEST PEMVIS\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.exe
+C:\Users\ASUS\OneDrive\Documents\POSTTEST PEMVIS\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.xml
+C:\Users\ASUS\OneDrive\Documents\POSTTEST PEMVIS\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.pdb
+C:\Users\ASUS\OneDrive\Documents\POSTTEST PEMVIS\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.exe.config
+C:\Users\ASUS\OneDrive\Documents\POSTTEST PEMVIS\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.exe
+C:\Users\ASUS\OneDrive\Documents\POSTTEST PEMVIS\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.xml
+C:\Users\ASUS\OneDrive\Documents\POSTTEST PEMVIS\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.pdb
+C:\Users\ASUS\OneDrive\Documents\POSTTEST PEMVIS\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.exe
+C:\Users\ASUS\OneDrive\Documents\POSTTEST PEMVIS\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.pdb
+C:\Users\ASUS\OneDrive\Documents\POSTTEST PEMVIS\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.xml
+C:\Users\ASUS\OneDrive\Documents\POSTTEST PEMVIS\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.vbprojResolveAssemblyReference.cache
+C:\Users\ASUS\OneDrive\Documents\POSTTEST PEMVIS\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\ASUS\OneDrive\Documents\POSTTEST PEMVIS\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ASUS\OneDrive\Documents\POSTTEST PEMVIS\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.exe.config
+C:\Users\User\Documents\Visual Studio 2012\Projects\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.exe
+C:\Users\User\Documents\Visual Studio 2012\Projects\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.pdb
+C:\Users\User\Documents\Visual Studio 2012\Projects\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.xml
+C:\Users\User\Documents\Visual Studio 2012\Projects\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.vbprojResolveAssemblyReference.cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.vbproj.GenerateResource.Cache
+C:\Users\User\Documents\Visual Studio 2012\Projects\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\User\Documents\Visual Studio 2012\Projects\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form5.resources
+C:\Users\ASUS\Music\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.exe.config
+C:\Users\ASUS\Music\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.exe
+C:\Users\ASUS\Music\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.xml
+C:\Users\ASUS\Music\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.pdb
+C:\Users\ASUS\Music\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.exe
+C:\Users\ASUS\Music\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.pdb
+C:\Users\ASUS\Music\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.xml
+C:\Users\ASUS\Music\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.vbprojResolveAssemblyReference.cache
+C:\Users\ASUS\Music\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\ASUS\Music\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\ASUS\Music\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\ASUS\Music\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\ASUS\Music\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form5.resources
+C:\Users\ASUS\Music\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ASUS\Music\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Music\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form6.resources
+C:\Users\ASUS\Music\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form7.resources
+C:\Users\asus\Downloads\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.exe.config
+C:\Users\asus\Downloads\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.exe
+C:\Users\asus\Downloads\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.xml
+C:\Users\asus\Downloads\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.pdb
+C:\Users\asus\Downloads\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.exe
+C:\Users\asus\Downloads\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.pdb
+C:\Users\asus\Downloads\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.xml
+C:\Users\asus\Downloads\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.vbprojResolveAssemblyReference.cache
+C:\Users\asus\Downloads\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\asus\Downloads\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form2.resources
+C:\Users\asus\Downloads\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\asus\Downloads\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\asus\Downloads\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form5.resources
+C:\Users\asus\Downloads\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form6.resources
+C:\Users\asus\Downloads\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form7.resources
+C:\Users\asus\Downloads\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\asus\Downloads\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.vbproj.GenerateResource.Cache
+C:\Users\asus\Downloads\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Register.resources
+C:\Users\ASUS\Downloads\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.exe.config
+C:\Users\ASUS\Downloads\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.exe
+C:\Users\ASUS\Downloads\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.xml
+C:\Users\ASUS\Downloads\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.pdb
+C:\Users\ASUS\Downloads\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.exe
+C:\Users\ASUS\Downloads\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.pdb
+C:\Users\ASUS\Downloads\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.xml
+C:\Users\ASUS\Downloads\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.vbprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\ASUS\Downloads\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\ASUS\Downloads\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\ASUS\Downloads\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form5.resources
+C:\Users\ASUS\Downloads\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form6.resources
+C:\Users\ASUS\Downloads\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form7.resources
+C:\Users\ASUS\Downloads\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ASUS\Downloads\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Register.resources
+C:\Users\ASUS\Downloads\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.vbproj.GenerateResource.Cache
+C:\Users\User\Music\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.exe.config
+C:\Users\User\Music\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.exe
+C:\Users\User\Music\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.xml
+C:\Users\User\Music\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.pdb
+C:\Users\User\Music\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.exe
+C:\Users\User\Music\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.pdb
+C:\Users\User\Music\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.xml
+C:\Users\User\Music\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.vbprojResolveAssemblyReference.cache
+C:\Users\User\Music\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\User\Music\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\User\Music\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\User\Music\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form5.resources
+C:\Users\User\Music\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form6.resources
+C:\Users\User\Music\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form7.resources
+C:\Users\User\Music\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\User\Music\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Register.resources
+C:\Users\User\Music\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Downloads\neww\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.exe.config
+C:\Users\ASUS\Downloads\neww\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.exe
+C:\Users\ASUS\Downloads\neww\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.xml
+C:\Users\ASUS\Downloads\neww\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.pdb
+C:\Users\ASUS\Downloads\neww\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.exe
+C:\Users\ASUS\Downloads\neww\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.pdb
+C:\Users\ASUS\Downloads\neww\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.xml
+C:\Users\ASUS\Downloads\neww\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.vbprojResolveAssemblyReference.cache
+C:\Users\ASUS\Downloads\neww\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form1.resources
+C:\Users\ASUS\Downloads\neww\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form3.resources
+C:\Users\ASUS\Downloads\neww\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form4.resources
+C:\Users\ASUS\Downloads\neww\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form5.resources
+C:\Users\ASUS\Downloads\neww\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form6.resources
+C:\Users\ASUS\Downloads\neww\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Form7.resources
+C:\Users\ASUS\Downloads\neww\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\ASUS\Downloads\neww\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\WindowsApplication1.Register.resources
+C:\Users\ASUS\Downloads\neww\ass (2)\ass\posttestlengnew\posttestleng\posttest5\Posttest4\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.vbproj.GenerateResource.Cache
+C:\Users\ASUS\Downloads\ProjekAkhirPemvisKel2\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\bin\Debug\Toko_Alatmusik_Djaya.exe.config
+C:\Users\ASUS\Downloads\ProjekAkhirPemvisKel2\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.exe
+C:\Users\ASUS\Downloads\ProjekAkhirPemvisKel2\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.xml
+C:\Users\ASUS\Downloads\ProjekAkhirPemvisKel2\Toko_Alatmusik_Djaya\Toko_Alatmusik_Djaya\obj\Debug\Toko_Alatmusik_Djaya.pdb
